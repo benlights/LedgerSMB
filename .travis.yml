@@ -16,7 +16,7 @@ env:
     - secure: cZKPTfU0h4rH2IIRr1Ds1XRPDrloe/K+menYm+VK54hE4MM2zTtNDmWn0fyPdeHeJDRrTF0pyobje8RG9E2Ld5YPHXve1/lVkieoPeqzm9V8hlvZlkgTQJiMAvKzjhSlUJx8AKPjX+jQZfhgAS1hnuWwOIB1cAA7fMpPJ7rPVWo=
 
 notifications:
-  webhooks: https://ledgersmb.org/webhooks/travis_ci_notifications
+  webhooks: https://ledgersmb.org/webhook/travis_ci_notifications
 
 matrix:
   include:
